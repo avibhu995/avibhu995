@@ -2,7 +2,7 @@ Hi 👋, I'm Awanish Yadav😎
 
 A passionate full stack web developer!🧑‍💻
 - 🔭 I’m currently working on Webapp based on Java,HTML,Css,Javascript,algorithms...
-- 🌱 I’m currently learning DevOps.!!
+- 🌱 I’m currently learning React.Js.!!
 
 - 👯 I’m looking to collaborate on - Web Dev and Java based Projects.
 - 📫 How to reach one awanishy97@gmail.com.
